@@ -8,4 +8,4 @@ Let's collaborate and grow together.
 
 
 ## 
-[![website](https://img.shields.io/badge/ahmfarisi.com-lightgrey?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ahmfarisi.com/)
+[![website](https://img.shields.io/badge/-ahmfarisi.com-black?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ahmfarisi.com/)
