@@ -1,3 +1,7 @@
 # About me
 
-Hi ! I am Ahmad Farisi. I am a university lecturer in my hometown, Palembang, South Sumatera, Indonesia. I teach at Universitas Multi Data Palembang. I am teaching some subjects in term of programming, software engineering, and research methodology, such as basic programming, mobile application programming, web programming, software engineering, information system project management, and information system research. I love teaching, researching, and sharing about technology and technopreneurship. And right now I am being enthusiast to learn about data analysis. Let's collaborate and grow together.
+Hi! I’m Ahmad Farisi, a university lecturer from Palembang, South Sumatera, Indonesia. I’m really passionate about helping students succeed by using creative teaching methods and offering support through mentorship. I love seeing students grow and reach their potential, both in the classroom and beyond.
+
+Besides teaching, I’m also really into research—especially in areas like information systems and software engineering. I enjoy working on projects that use tech to solve real-world problems, and I’m always open to collaborating with others to push ideas forward.
+
+I’m all about continuous learning and staying up-to-date with the latest trends in education and technology, and I’m always looking for ways to make a positive impact in both fields.
