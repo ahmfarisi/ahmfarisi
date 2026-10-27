@@ -1,7 +1,24 @@
-# About me
+# Ahmad Farisi
 
-Hi! I’m Ahmad Farisi, a university lecturer from Palembang, South Sumatera, Indonesia. I’m really passionate about helping students succeed by using creative teaching methods and offering support through mentorship. I love seeing students grow and reach their potential, both in the classroom and beyond.
+Lecturer and Head of the Information Systems Study Program (Kaprodi Sistem Informasi) at Universitas Multi Data Palembang, Indonesia.
 
-Besides teaching, I’m also really into research—especially in areas like information systems and software engineering. I enjoy working on projects that use tech to solve real-world problems, and I’m always open to collaborating with others to push ideas forward.
+## Research
 
-I’m all about continuous learning and staying up-to-date with the latest trends in education and technology, and I’m always looking for ways to make a positive impact in both fields.
+- Software engineering and software quality analysis
+- Knowledge management
+- Retrieval-augmented generation (RAG) and agentic AI
+
+Publications: [Google Scholar](https://scholar.google.com/citations?user=bOi2MGgAAAAJ)
+
+## Teaching
+
+- Mobile app development with Flutter (Pemrograman Aplikasi Bergerak)
+- Web development: PHP, Laravel, HTML/CSS
+- Python programming, data mining and ETL, AI
+- Project management and research methodology
+
+Most public repositories here are course materials and starter projects for my students.
+
+## Contact
+
+ahmadfarisi@mdp.ac.id
