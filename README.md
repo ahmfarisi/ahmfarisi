@@ -5,7 +5,6 @@ Lecturer and Head of the Information Systems Study Program (Kaprodi Sistem Infor
 ## Research
 
 - Software engineering and software quality analysis
-- Knowledge management
 - Retrieval-augmented generation (RAG) and agentic AI
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=bOi2MGgAAAAJ)
